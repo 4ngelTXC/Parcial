@@ -1,6 +1,5 @@
 // Angel Gustavo Pimentel Amaya
 
-// Array de gastos
 let gastosMensuales = [
     { categoria: 'Vivienda', valor: 300 },
     { categoria: 'Alimentos', valor: 400 },
